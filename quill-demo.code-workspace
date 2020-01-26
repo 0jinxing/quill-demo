@@ -1,0 +1,16 @@
+{
+  "folders": [
+    {
+      "name": "/",
+      "path": "."
+    },
+    {
+      "name": "quill",
+      "path": "lib/quill"
+    },
+    {
+      "name": "parchment",
+      "path": "lib/parchment",
+    }
+  ]
+}

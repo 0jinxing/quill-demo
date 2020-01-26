@@ -1,0 +1,8 @@
+[submodule "lib/quill"]
+	path = lib/quill
+	url = https://github.com/0jinxing/quill.git
+	branch = develop
+[submodule "lib/parchment"]
+	path = lib/parchment
+	url = https://github.com/0jinxing/parchment.git
+	branch = types/2.0

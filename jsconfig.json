@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "baseUrl": ".",
+    "paths": {
+      "parchment": [
+        "lib/parchment/src/parchment.ts"
+      ]
+    }
+  }
+}
